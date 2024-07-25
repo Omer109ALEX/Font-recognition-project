@@ -1,4 +1,5 @@
 # Font Recognition Project
+The final project at computer vision, my grade is `96`
 A program for recognizing fonts in text appearing in photos - the photos where created by https://github.com/ankush-me/SynthText
 
 To run the project follow the next steps:
